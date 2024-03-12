@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  @variants responsive {
+    .hide-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .hide-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+    ::selection {
+      background: deeppink;
+      color:white;
+
+    }
+  }
+}
+
+/* .child-container {
+  border-radius: calc(3.5rem - 1px);
+} */
