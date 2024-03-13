@@ -1,14 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  async redirects() {
-    return [
-      {
-        source: '/',
-        destination: '/searchEngine',
-        permanent: true,
-      },
-    ]
-  },
   eslint: {
     ignoreDuringBuilds: true,
   },
