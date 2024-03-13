@@ -137,7 +137,7 @@ function TopHeaderSeacrch() {
                 width={600}
                 height={600}
                 className="w-8 h-8 rounded-full object-top"
-                src="/sana.jpg"
+                src="/logo.jpg"
                 alt=""
               />
             </li>
