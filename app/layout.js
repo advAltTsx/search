@@ -18,11 +18,11 @@ const nothing = localFont({
 })
 
 export const metadata = {
-  title: "Modern Search Engine",
+  title: "Modern Search",
   icons: {
-    icon: '/sana.jpg'
+    icon: '/logo.jpg'
   },
-  description: "Elegant Design, Minimalistic Nothing Styled Search Engine. Indie Project.",
+  description: "Nothing Styled Search Engine. Indie Project.",
 };
 
 export default function RootLayout({ children }) {
