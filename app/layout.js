@@ -28,6 +28,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${nothing.variable} font-sans`}>
+<link rel="icon" href="/logo.jpg" />
       {/* 080808 */}
       <body className={`} bg-[#080808]`}>
         {/* <body className={`${inter.className} bg-[#080808]`}> */}
