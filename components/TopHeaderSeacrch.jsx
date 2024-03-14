@@ -85,7 +85,7 @@ function TopHeaderSeacrch() {
     <div className="sticky top-0 p-2 ">
       <nav className=" px-6  h-12 flex justify-between items-center border-b border-neutral-700 text-white ">
         <div className="flex items-center gap-x-4">
-          <Link href={"https://irl.abhyudaya.xyz"} className=" font-nothing ">
+          <Link href={"https://abhyudaya.xyz"} className=" font-nothing ">
             Home
           </Link>
         </div>
