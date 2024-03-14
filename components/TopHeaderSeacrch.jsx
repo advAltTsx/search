@@ -98,7 +98,7 @@ function TopHeaderSeacrch() {
             value={input}
             onChange={ShowIcon}
             type="search"
-            placeholder="Search here"
+            placeholder="Search 'Chicago University'"
             className="bg-transparent font-nothing placeholder:text-neutral-500 placeholder:text-sm pl-2   w-full  text-neutral-500 outline-none"
           />
 
